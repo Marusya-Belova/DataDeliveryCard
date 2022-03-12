@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="ru.netology.DataDeliveryCardTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-03-09T19:38:45" hostname="DOG-MAR" time="5.263">
+<testsuite name="ru.netology.DataDeliveryCardTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-03-12T11:59:35" hostname="DOG-MAR" time="5.092">
   <properties/>
-  <testcase name="shouldRegisterCard()" classname="ru.netology.DataDeliveryCardTest" time="5.263"/>
+  <testcase name="shouldRegisterCard()" classname="ru.netology.DataDeliveryCardTest" time="5.092"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[[Test worker] INFO com.codeborne.selenide.impl.WebDriverThreadLocalContainer - No webdriver is bound to current thread: 13 - let's create a new webdriver
-[Test worker] INFO com.codeborne.selenide.impl.FileHelper - Creating folder: C:\Users\belova\IdeaProjects\DataDeliveryCard\build\downloads\1646854725157_9788_13
+[Test worker] INFO com.codeborne.selenide.impl.FileHelper - Creating folder: C:\Users\belova\IdeaProjects\DataDeliveryCard\build\downloads\1647086375134_14444_13
 [Test worker] INFO io.github.bonigarcia.wdm.WebDriverManager - Using chromedriver 99.0.4844.51 (resolved driver for Chrome 99)
 [Test worker] INFO io.github.bonigarcia.wdm.WebDriverManager - Exporting webdriver.chrome.driver as C:\Users\belova\.cache\selenium\chromedriver\win32\99.0.4844.51\chromedriver.exe
-Starting ChromeDriver 99.0.4844.51 (d537ec02474b5afe23684e7963d538896c63ac77-refs/branch-heads/4844@{#875}) on port 39479
+Starting ChromeDriver 99.0.4844.51 (d537ec02474b5afe23684e7963d538896c63ac77-refs/branch-heads/4844@{#875}) on port 12352
 Only local connections are allowed.
 Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
 ChromeDriver was started successfully.
-мар. 09, 2022 10:38:47 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+мар. 12, 2022 2:59:36 PM org.openqa.selenium.remote.ProtocolHandshake createSession
 INFO: Detected dialect: W3C
 [Test worker] INFO com.codeborne.selenide.webdriver.BrowserResizer - Set browser size to 1366x768
 [Test worker] INFO com.codeborne.selenide.webdriver.WebDriverFactory - BrowserName=chrome Version=99.0.4844.51 Platform=WINDOWS
 [Test worker] INFO com.codeborne.selenide.webdriver.WebDriverFactory - Selenide v. 5.19.0
 [Test worker] INFO com.codeborne.selenide.webdriver.WebDriverFactory - Selenium WebDriver v. 3.141.59 build time: 2018-11-14T08:17:03
-[Test worker] INFO com.codeborne.selenide.drivercommands.CreateDriverCommand - Create webdriver in current thread 13: ChromeDriver -> ChromeDriver: chrome on WINDOWS (4c46f82948eb61f762ab501edb3f2405)
+[Test worker] INFO com.codeborne.selenide.drivercommands.CreateDriverCommand - Create webdriver in current thread 13: ChromeDriver -> ChromeDriver: chrome on WINDOWS (524aa51dbdc5e34e8cbe99fdaf6d1b0f)
 ]]></system-err>
 </testsuite>
